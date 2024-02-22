@@ -1,0 +1,1 @@
+Workflow could be improved and conflicts can be prevented by pulling from the main repo. Making small commits with descriptive messages and rebasing often

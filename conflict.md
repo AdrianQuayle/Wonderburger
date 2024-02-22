@@ -1,0 +1,1 @@
+using the command 'git diff [target branch] [target file] will show the file differences.
